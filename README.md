@@ -38,7 +38,7 @@ I've been working on the healthy intersection of technology and humanity for man
 
 Here’s a visual representation. The first ring represents the high-level core values, and the outer ring is made up of examples.
 
-![Nick Sullivan's Core Values](https://lh3.googleusercontent.com/6wf5ddk9tYxE13uk2bk7boIhqj1DCyrhRA7eLC8nRxY3WQ0caFweesAN0b7cc4s14yEVo61CI-c4p2s1Qcb4JG1799pt5ZxWxfFAA9dLZbgjMWayJRcVyLm0DCu5E5S6kW60R62l)
+![Nick Sullivan's Core Values]((https://github.com/TechNickAI/TechNickAI/assets/142708/9a6809e7-7a52-4488-a24e-c55b6298c9e7))
 
 Note: My process for generating the above graphic was to start with a [list of values](https://scottjeffrey.com/core-values-list/), select the ones that applied to me, and then thoughtfully group them with [Xmind](https://www.xmind.net/). If you’re inspired to do the same, I’d love to see yours!
 
