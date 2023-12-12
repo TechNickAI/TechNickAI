@@ -14,8 +14,6 @@ My best character attribute is my continual quest for self-improvement. I value 
 
 My [love language is Acts of Service](https://www.5lovelanguages.com/2009/02/acts-of-service/); please tell me something I can do for you. I’m fueled by gratitude. 🙏
 
-![Nick Sullivan on a chair](https://lh4.googleusercontent.com/KDHu98EpkojqwKBykMPZYRRqBzHvM-NWOVTfa_Rw2WhZkKsVmMvhqZnr5dCYEjewMyzGl-PK3TCbUViNUbkZ1Y3VThwWicrXVKAB31WEbULcdFwD5IXStRQ9my_kcMIRvUj83bB5)
-
 ### Significant parts of my story that have shaped who I am
 
 On a somber note, my father died when I was 10 years old. I share that not because it defines who I am today, nor do I seek pity.  It is an essential part of my story growing up - I was effectively the “man of the house” at 10, accelerating my growth. I also had my risk tolerance set high very early on, because I’d already survived something so difficult - the rest of my life’s challenges seemed trivial by comparison. It’s been an essential part of my path.
@@ -38,7 +36,7 @@ I've been working on the healthy intersection of technology and humanity for man
 
 Here’s a visual representation. The first ring represents the high-level core values, and the outer ring is made up of examples.
 
-![Nick Sullivan's Core Values]((https://github.com/TechNickAI/TechNickAI/assets/142708/9a6809e7-7a52-4488-a24e-c55b6298c9e7))
+![Nick Sullivan's Core Values](https://github.com/TechNickAI/TechNickAI/assets/142708/9a6809e7-7a52-4488-a24e-c55b6298c9e7)
 
 Note: My process for generating the above graphic was to start with a [list of values](https://scottjeffrey.com/core-values-list/), select the ones that applied to me, and then thoughtfully group them with [Xmind](https://www.xmind.net/). If you’re inspired to do the same, I’d love to see yours!
 
