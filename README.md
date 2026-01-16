@@ -30,7 +30,7 @@ My [love language is Acts of Service](https://www.5lovelanguages.com/2009/02/act
 
 **[AI Coding Config](https://github.com/TechNickAI/ai-coding-config)** is my actual development setup, open sourced. Plugin marketplace, autonomous workflows, specialist agents, LLM-optimized rules for Claude Code, Cursor, Windsurf, and Cline. One command takes you from feature description to merge-ready PR. Battle-tested because I use it every day.
 
-**[AICodeBot](https://github.com/TechNickAI/AICodeBot)** is where it all started — my first AI project in 2023. The coding assistant that convinced me this was the most important technology shift of our lifetime and kicked off everything that followed.
+**[AICodeBot](https://github.com/TechNickAI/AICodeBot)** was my first AI project, built in June 2023 — a terminal-based coding assistant with commit generation, code review, and an agentic "sidekick" mode. Essentially Claude Code, 18 months before Claude Code existed. Now happily superseded by the real thing, but it proved the concept and convinced me this was the most important technology shift of our lifetime.
 
 ---
 
