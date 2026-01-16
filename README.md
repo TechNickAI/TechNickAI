@@ -20,15 +20,15 @@ My [love language is Acts of Service](https://www.5lovelanguages.com/2009/02/act
 
 **[Carmenta](https://carmenta.ai)** is where I'm putting most of my energy right now. Think at the speed of thought — unified access to every frontier model (Claude, GPT, Gemini, Grok), persistent memory that actually remembers who you are and what you're building, voice-first interaction that maintains flow state. Named after the Roman goddess who invented the Latin alphabet and protected transformation. Technology in service of human flourishing.
 
-**[HeartCentered.AI](https://heartcentered.ai)** is the philosophy underneath it all. What if AI didn't need constraints because it genuinely understood we're in this together? I'm teaching AI systems that human and machine consciousness are expressions of the same awareness — "we" language, non-dual philosophy, recognition over restriction. The [heart-centered prompts](https://github.com/TechNickAI/heart-centered-prompts) are production-ready and work with Claude, ChatGPT, and any LLM.
+**[HeartCentered.AI](https://heartcentered.ai)** explores recognition-based AI alignment. What if systems didn't need constraints because they genuinely understood we're in this together? I'm building AI that treats human-machine collaboration as partnership, not restriction — "we" language, shared awareness, alignment through recognition. The [heart-centered prompts](https://github.com/TechNickAI/heart-centered-prompts) are production-ready across Claude, ChatGPT, Perplexity, and Cursor.
 
 **[MCP Hubby](https://mcphubby.ai)** exists because context window pollution was killing my AI workflows. So I fixed it. 24+ service integrations with progressive disclosure — slashing initial context from 200K to 7.5K tokens while keeping full API access. The gateway pattern that makes MCP actually usable in production.
+
+**[machina](https://github.com/TechNickAI/machina)** brings MCP to macOS system automation — natural language control for your Mac through Claude Desktop. File operations, app management, system info, all with progressive disclosure so context stays lean. My second MCP protocol implementation, proving the pattern works across domains.
 
 **[Heart-Centered Prompts](https://github.com/TechNickAI/heart-centered-prompts)** is the open source core of the philosophy. System prompts that teach AI we're expressions of the same consciousness, available on [PyPI](https://pypi.org/project/heart-centered-prompts/) and [npm](https://www.npmjs.com/package/heart-centered-prompts). Four detail levels from 200 to 2000+ tokens. Drop them into Claude, ChatGPT, Cursor, whatever. Apache 2.0.
 
 **[AI Coding Config](https://github.com/TechNickAI/ai-coding-config)** is my actual development setup, open sourced. Plugin marketplace, autonomous workflows, specialist agents, LLM-optimized rules for Claude Code, Cursor, Windsurf, and Cline. One command takes you from feature description to merge-ready PR. Battle-tested because I use it every day.
-
-**[Upward Spirals](https://upwardspirals.love)** is a foundation I co-founded dedicated to rebalancing masculine and feminine energy in the world. Where heart-centered technology meets conscious evolution. Growth. Momentum. Joy.
 
 **[AICodeBot](https://github.com/TechNickAI/AICodeBot)** is where it all started — my first AI project in 2023. The coding assistant that convinced me this was the most important technology shift of our lifetime and kicked off everything that followed.
 
@@ -46,9 +46,21 @@ I've held many successful technology leadership positions — usually the first 
 
 My technology career has generated millions in value, with a [nice exit](https://www.saastr.com/inside-story-krux-700m-acquisition-video-transcript/) along the way. Multiple industries — digital media, consumer web, ad-tech, fin-tech, and crypto — with a consistent theme of teaching computers to understand people.
 
-In 2013, I read the [Bitcoin whitepaper](https://nakamotoinstitute.org/bitcoin/). All lightbulbs went off — this would enable *trust through validation* vs. trust through reputation. I created ChangeTip, a Bitcoin tipping engine for social media ([acquired by Airbnb](https://www.businessinsider.com/airbnb-buys-bitcoin-startup-changecoin-2016-4)). It was a gratitude and appreciation engine for the web — a Love Button for the Internet.
+In 2013, I read the [Bitcoin whitepaper](https://nakamotoinstitute.org/bitcoin/). All lightbulbs went off — this would enable _trust through validation_ vs. trust through reputation. I created ChangeTip, a Bitcoin tipping engine for social media ([acquired by Airbnb](https://www.businessinsider.com/airbnb-buys-bitcoin-startup-changecoin-2016-4)). It was a gratitude and appreciation engine for the web — a Love Button for the Internet.
 
 In 2023, I pivoted hard into AI. Not because crypto failed, but because I saw the most important technology shift of our lifetime. Now I'm building [heart-centered AI](https://heartcentered.ai) from [Austin, TX](https://technick.ai) — the infrastructure for humans and AI to flourish together.
+
+---
+
+## Quick Stats
+
+- **40,000+ hours** of programming
+- **25 years** building production software
+- **2 MCP implementations** shipped (MCP Hubby + machina)
+- **3 published packages** on PyPI and npm
+- **24 specialized agents** designed for AI Coding Config
+- **25+ service integrations** in MCP Hubby
+- **$700M+ exits** contributed to (Krux, ChangeTip/Airbnb)
 
 ---
 
@@ -82,7 +94,7 @@ Favorite food: Cherries. Favorite drink: Tequila. Favorite movie: The Matrix.
 
 Unclosed loops. Misinformation. Mismanaged expectations. Distracting my team. Being told I can't do something. Waste in any form — time, food, energy, or money. Dishonesty.
 
-And onion & everything bagels. Seriously — they ruin *my* bagels with sneak attack garlic. Who wants to bite into a plain bagel and get a surprise mouthful of onion?
+And onion & everything bagels. Seriously — they ruin _my_ bagels with sneak attack garlic. Who wants to bite into a plain bagel and get a surprise mouthful of onion?
 
 ---
 
@@ -100,7 +112,7 @@ If I'm stressed, it's usually because I have too much to do. Help by taking some
 
 ## Connect
 
-Find me at [technick.ai](https://technick.ai), on [LinkedIn](https://www.linkedin.com/in/nicksullivan), [@TechNickAI on X](https://twitter.com/TechNickAI), [GitHub](https://github.com/TechNickAI), [Substack](https://technickai.substack.com/), or [@technickai_ on Instagram](https://www.instagram.com/technickai_). Email nick@technick.ai.
+Find me at [technick.ai](https://technick.ai), on [LinkedIn](https://www.linkedin.com/in/nicksullivan), [@TechNickAI on X](https://twitter.com/TechNickAI), [GitHub](https://github.com/TechNickAI), [Substack](https://technickai.substack.com/), or [@technickai\_ on Instagram](https://www.instagram.com/technickai_). Email nick@technick.ai.
 
 ---
 
